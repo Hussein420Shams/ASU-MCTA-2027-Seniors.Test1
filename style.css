@@ -908,11 +908,11 @@ body.modal-open {
         margin: 0;
         border-radius: 18px;
     }
-
     .student-image {
-        height: clamp(135px, 41vw, 180px);
-        aspect-ratio: auto;
-    }
+    height: clamp(150px, 44vw, 200px);
+    overflow: hidden;
+    background: #07111d;
+}
 
     .student-image img {
         width: 100%;
