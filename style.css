@@ -909,16 +909,18 @@ body.modal-open {
         border-radius: 18px;
     }
     .student-image {
-    height: clamp(150px, 44vw, 200px);
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 4;
     overflow: hidden;
     background: #07111d;
 }
-
-    .student-image img {
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-    }
+.student-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain !important;
+    object-position: center;
+}
 
     .student-card-body {
         padding: 10px;
