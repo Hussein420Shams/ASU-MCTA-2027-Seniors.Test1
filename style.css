@@ -917,7 +917,7 @@ body.modal-open {
     .student-image img {
         width: 100%;
         height: 100%;
-        object-fit: cover;
+        object-fit: contain;
     }
 
     .student-card-body {
