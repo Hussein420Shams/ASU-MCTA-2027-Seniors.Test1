@@ -15,6 +15,10 @@
     --radius-small: 14px;
 }
 
+#modalSpeech {
+    white-space: pre-line;
+}
+
 * {
     box-sizing: border-box;
 }

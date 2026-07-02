@@ -100,8 +100,8 @@ const students = [
         name: "Mazen Ehab Mohamed",
         id: "23P0041",
         photo: "images/students/23P0041.png",
-        quote: "",
-        speech: ""
+        quote: "يا رفاعي",
+        speech: "الثقة فالله نجاح"
     },
     {
         preferredName: "",
@@ -632,12 +632,12 @@ const students = [
         speech: ""
     },
     {
-        preferredName: "",
+        preferredName: "Habiba Elsharkawy",
         name: "Habiba Mohamed El-Sharkawy",
         id: "23P0380",
-        photo: "images/students/sample-student.png",
+        photo: "images/students/23P0380.png",
         quote: "",
-        speech: ""
+        speech: "I will miss every moment of college—the joys and the hardships alike.\nI will miss the laughter, the struggles, and the memories we created side by side.\nThese days will forever hold a special place in my heart  ):"
     },
     {
         preferredName: "",
