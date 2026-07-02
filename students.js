@@ -1,14 +1,14 @@
 const students = [
     {
-        preferredName: "",
+        preferredName: "Fares Alaa",
         name: "Fares Alaa El-Din Abd El-Mohimen",
         id: "23P0002",
-        photo: "images/students/sample-student.png",
-        quote: "",
-        speech: ""
+        photo: "images/students/23P0002.png",
+        quote: "Dare to be great",
+        speech: "Here’s to chasing dreams and pretending we know what we’re doing"
     },
     {
-        preferredName: "",
+        preferredName: "Shams",
         name: "Hussein Mohammed Shams El-Din",
         id: "23P0004",
         photo: "images/students/sample-student.png",
