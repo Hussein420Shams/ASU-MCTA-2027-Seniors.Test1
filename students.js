@@ -576,10 +576,10 @@ const students = [
         speech: ""
     },
     {
-        preferredName: "",
-        name: "Hend Badawy Farouk Mohamed",
+        preferredName: "Hend",
+        name: "Hend Badawy Farouk Mohammed",
         id: "23P0362",
-        photo: "images/students/sample-student.png",
+        photo: "images/students/23P0362.png",
         quote: "Keep trying, even after the thousandth time.🐌🪐✨",
         speech: `Grateful for every lesson i have learnt from you ASU👉👈.........
 Every friendship, challlenge that shaped who i am today.
