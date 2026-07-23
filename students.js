@@ -580,8 +580,10 @@ const students = [
         name: "Hend Badawy Farouk Mohamed",
         id: "23P0362",
         photo: "images/students/sample-student.png",
-        quote: "",
-        speech: ""
+        quote: "Keep trying, even after the thousandth time.🐌🪐✨",
+        speech: `Grateful for every lesson i have learnt from you ASU👉👈.........
+Every friendship, challlenge that shaped who i am today.
+waiting for "الحجات اللي هلاقيها في عقلي الباطن بعد التخرج زي ما دكتورتامر قالناا"`
     },
     {
         preferredName: "",
